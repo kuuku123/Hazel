@@ -9,3 +9,5 @@
 #else
 	#error HAZEL ONLY SUPPORT WINDOW!
 #endif
+
+#define BIT(x) (1<<x)
